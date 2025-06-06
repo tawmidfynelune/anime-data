@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Solo Leveling",
+    "thumbnail": "https://i.imgur.com/solo.jpg",
+    "episodes": [
+      "https://videourl.com/solo-ep1",
+      "https://videourl.com/solo-ep2"
+    ]
+  },
+  {
+    "title": "Jujutsu Kaisen",
+    "thumbnail": "https://i.imgur.com/juju.jpg",
+    "episodes": [
+      "https://videourl.com/juju-ep1",
+      "https://videourl.com/juju-ep2"
+    ]
+  }
+]
